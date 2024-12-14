@@ -3,8 +3,8 @@
 ## Líquido cefalorraquídeo 
 
 ## Estudiantes
-Feliz Gastelum Jesus Efren, Mancilla Chavez Brenda, Reyes Galvan Miriam Sarahí
-Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: jesus.feliz201@tectijuana.edu.mx; L21212745@tectijuana.edu.mx L21212174@tectijuana.edu.mx
+Felix Gastelum Jesus Efren, Mancilla Chavez Brenda, Reyes Galvan Miriam Sarahí
+Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: jesus.felix201@tectijuana.edu.mx; L21212745@tectijuana.edu.mx L21212174@tectijuana.edu.mx
 
 ## Asignaturas o departmento donde se puede usar la Actividad
 Modelado de Sistemas Fisiológicos de Ingeniería Biomédica
