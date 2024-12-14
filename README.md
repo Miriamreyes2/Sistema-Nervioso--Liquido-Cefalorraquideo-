@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Miriamreyes2/Sistema-Nervioso--Liquido-Cefalorraquideo-)
 
-Líquido cefalorraquídeo 
+## Líquido cefalorraquídeo 
 
 ## Estudiantes
 Feliz Gastelum Jesus Efren, Mancilla Chavez Brenda, Reyes Galvan Miriam Sarahí
